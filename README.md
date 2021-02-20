@@ -1,4 +1,5 @@
 ### <img src="https://fuxx-1.github.io/images/Logo.png" alt="网站Logo" width="14" height="14" align="bottom" /> [直达我的博客主页](https://fuxx-1.github.io/)  
+### 我的邮箱：[fuxuxiang@qq.com](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=NVNATUBNXFRbUnVERBtWWlg)
 ### Github统计  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fuxx-1&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)  
 ### 语言使用排行榜  
