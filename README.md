@@ -1,5 +1,5 @@
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fuxx-1&show_icons=true&theme=vue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fuxx-1&show_icons=true&theme=vue&layout=demo)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Fuxx-1/fuxx-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
