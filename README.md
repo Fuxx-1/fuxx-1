@@ -1,9 +1,9 @@
 
 
-Github统计
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fuxx-1&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-语言使用排行榜
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fuxx-1&layout=demo)](https://github.com/anuraghazra/github-readme-stats)
+Github统计  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fuxx-1&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)  
+语言使用排行榜  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fuxx-1&layout=demo)](https://github.com/anuraghazra/github-readme-stats)  
 
 
 
