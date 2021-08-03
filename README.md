@@ -10,7 +10,7 @@
 ### Language Use
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fuxx-1&layout=compact&theme=vue&card_width=445)
 ### Code This Week
-![](https://github-readme-stats.vercel.app/api/wakatime?username=fuxx&theme=vue)
+![](https://github-readme-stats.vercel.app/api/wakatime?username=fuxx&theme=vue&v=2)
 
 
 <!--
