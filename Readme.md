@@ -13,12 +13,3 @@
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=fuxx&theme=vue)
 ### Github Activity Graph
 [![Fuxx-1's github activity graph](https://activity-graph.herokuapp.com/graph?username=fuxx-1&theme=xcode&bg_color=FF000000&hide_border=true)](https://github.com/fuxx-1/github-readme-activity-graph) 
-
-
-<iframe  
- height=850 
- width=90% 
- src="http://mctool.wangmingchang.com/index/jspay/dashang"  
- frameborder=0  
- allowfullscreen>
- </iframe>
