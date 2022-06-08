@@ -9,6 +9,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=fuxx-1&show_icons=true&theme=vue&card_width=200)
 ### Language Use
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fuxx-1&layout=compact&theme=vue&card_width=445)
+### GitHub Streak
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fuxx-1&hide_border=true&background=FFFFFF)](https://git.io/streak-stats)
 ### Code This Week
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=fuxx&theme=vue)
 ### Github Activity Graph
