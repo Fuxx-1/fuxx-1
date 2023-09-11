@@ -1,28 +1,27 @@
 ## Information about Me
 ### Blog
-<div class="blog">
-    <img style="position: relative;height: 28px;top: 8px;" class="logo"
-        src="https://cdn.jsdelivr.net/gh/fuxx-1/StaticFile@main/Files/img/logo/Logo.svg" />
-    <div style="display: inline-block; transition: border-bottom 0.3s;color: #0038d5; border-bottom: 1.5px solid rgba(255, 255, 255, 0);"
-        onmouseover="this.style.borderBottom='1.5px solid #ff5722';this.style.color='#ff5722';this.firstChild.style.transform='scale(1)'; "
-        onmouseout="this.style.borderBottom='1.5px solid rgba(255, 255, 255, 0)';this.style.color='#0038d5';this.firstChild.style.transform='scale(0)';">
-        <a style="position: relative; text-decoration: none; transition: color 0.3s; color: inherit;"
-            href="https://fuxx-1.github.io/">
-            Go to my blog home page
-        </a>
-    </div>
-    <br>
-    <img style="position: relative;height: 28px;top: 8px;" class="logo"
-        src="https://cdn.jsdelivr.net/gh/fuxx-1/StaticFile@main/Files/img/logo/Logo.svg" />
-    <div style="display: inline-block; transition: border-bottom 0.3s;color: #0038d5; border-bottom: 1.5px solid rgba(255, 255, 255, 0);"
-        onmouseover="this.style.borderBottom='1.5px solid #ff5722';this.style.color='#ff5722';this.firstChild.style.transform='scale(1)'; "
-        onmouseout="this.style.borderBottom='1.5px solid rgba(255, 255, 255, 0)';this.style.color='#0038d5';this.firstChild.style.transform='scale(0)';">
-        <a style="position: relative; text-decoration: none; transition: color 0.3s; color: inherit;"
-            href="https://fuxx-1.gitee.io/">
-            Go to my blog home page(Gitee)
-        </a>
-    </div>
+<img style="position: relative;height: 28px;top: 8px;" class="logo"
+    src="https://cdn.jsdelivr.net/gh/fuxx-1/StaticFile@main/Files/img/logo/Logo.svg" />
+<div style="display: inline-block; transition: border-bottom 0.3s;color: #0038d5; border-bottom: 1.5px solid rgba(255, 255, 255, 0);"
+    onmouseover="this.style.borderBottom='1.5px solid #ff5722';this.style.color='#ff5722';this.firstChild.style.transform='scale(1)'; "
+    onmouseout="this.style.borderBottom='1.5px solid rgba(255, 255, 255, 0)';this.style.color='#0038d5';this.firstChild.style.transform='scale(0)';">
+    <a style="position: relative; text-decoration: none; transition: color 0.3s; color: inherit;"
+        href="https://fuxx-1.github.io/">
+        Go to my blog home page
+    </a>
 </div>
+<br>
+<img style="position: relative;height: 28px;top: 8px;" class="logo"
+    src="https://cdn.jsdelivr.net/gh/fuxx-1/StaticFile@main/Files/img/logo/Logo.svg" />
+<div style="display: inline-block; transition: border-bottom 0.3s;color: #0038d5; border-bottom: 1.5px solid rgba(255, 255, 255, 0);"
+    onmouseover="this.style.borderBottom='1.5px solid #ff5722';this.style.color='#ff5722';this.firstChild.style.transform='scale(1)'; "
+    onmouseout="this.style.borderBottom='1.5px solid rgba(255, 255, 255, 0)';this.style.color='#0038d5';this.firstChild.style.transform='scale(0)';">
+    <a style="position: relative; text-decoration: none; transition: color 0.3s; color: inherit;"
+        href="https://fuxx-1.gitee.io/">
+        Go to my blog home page(Gitee)
+    </a>
+</div>
+
 ### Contact me
 Email：
 <div style="display: inline-block; transition: border-bottom 0.3s;color: #0038d5; border-bottom: 1.5px solid rgba(255, 255, 255, 0);"
@@ -33,6 +32,7 @@ Email：
         Email Link
     </a>
 </div>
+
 ## Information about Github
 ### Stats
 <img style="width: 300px;"
