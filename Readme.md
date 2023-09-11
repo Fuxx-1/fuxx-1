@@ -4,14 +4,14 @@
 
 <p>
     <a href="https://fuxx-1.github.io/">
-        <img align='top' style="height: 25px;" src="https://cdn.jsdelivr.net/gh/fuxx-1/StaticFile@main/Files/img/logo/Logo.svg" />
+        <img align='top' style="height: 23px;" src="https://cdn.jsdelivr.net/gh/fuxx-1/StaticFile@main/Files/img/logo/Logo.svg" />
         Go to my blog home page
     </a>
 </p>
 
 <p>
     <a href="https://fuxx-1.gitee.io/">
-        <img align='top' style="height: 25px;" src="https://cdn.jsdelivr.net/gh/fuxx-1/StaticFile@main/Files/img/logo/Logo.svg" />
+        <img align='top' style="height: 23px;" src="https://cdn.jsdelivr.net/gh/fuxx-1/StaticFile@main/Files/img/logo/Logo.svg" />
         Go to my blog home page(Gitee)
     </a>
 </p>
