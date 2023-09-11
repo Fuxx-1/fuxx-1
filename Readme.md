@@ -23,8 +23,8 @@
 </div>
 
 ### Contact me
-Email：
-<div style="display: inline-block; transition: border-bottom 0.3s;color: #0038d5; border-bottom: 1.5px solid rgba(255, 255, 255, 0);"
+
+Email：<div style="display: inline-block; transition: border-bottom 0.3s;color: #0038d5; border-bottom: 1.5px solid rgba(255, 255, 255, 0);"
     onmouseover="this.style.borderBottom='1.5px solid #ff5722';this.style.color='#ff5722';this.firstChild.style.transform='scale(1)'; "
     onmouseout="this.style.borderBottom='1.5px solid rgba(255, 255, 255, 0)';this.style.color='#0038d5';this.firstChild.style.transform='scale(0)';">
     <a style="position: relative; text-decoration: none; transition: color 0.3s; color: inherit;"
@@ -34,17 +34,27 @@ Email：
 </div>
 
 ## Information about Github
+
 ### Stats
+
 <img style="width: 300px;"
     src="https://github-readme-stats.vercel.app/api?username=fuxx-1&show_icons=true&theme=vue&card_width=200" />
-### Language Use
+
+    ### Language Use
+
 <img style="width: 300px;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuxx-1&layout=compact&theme=vue&card_width=445" />
-### GitHub Streak
+
+    ### GitHub Streak
+
 <img style="width: 300px;"
     src="http://github-readme-streak-stats.herokuapp.com?user=fuxx-1&hide_border=true&background=FFFFFF" />
-### Code This Week
+
+    ### Code This Week
+
 <img style="width: 300px;" src="https://github-readme-stats.vercel.app/api/wakatime?username=fuxx&theme=vue" />
+
 ### Github Activity Graph
+
 <img style="width: 300px;"
     src="https://activity-graph.herokuapp.com/graph?username=fuxx-1&theme=xcode&bg_color=FF000000&hide_border=true" />
