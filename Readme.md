@@ -1,25 +1,24 @@
 ## Information about Me
+
 ### Blog
 
-<div>
+<p>
     <a href="https://fuxx-1.github.io/">
-        <img style="position: relative;height: 30px; padding-top: 10px;" class="logo" src="https://cdn.jsdelivr.net/gh/fuxx-1/StaticFile@main/Files/img/logo/Logo.svg" />
-        <span>Go to my blog home page</span>
+        <img align='top' style="height: 25px;" src="https://cdn.jsdelivr.net/gh/fuxx-1/StaticFile@main/Files/img/logo/Logo.svg" />
+        Go to my blog home page
     </a>
-</div>
+</p>
 
-<div>
+<p>
     <a href="https://fuxx-1.gitee.io/">
-        <img style="position: relative;height: 30px;" class="logo" src="https://cdn.jsdelivr.net/gh/fuxx-1/StaticFile@main/Files/img/logo/Logo.svg" />
+        <img align='top' style="height: 25px;" src="https://cdn.jsdelivr.net/gh/fuxx-1/StaticFile@main/Files/img/logo/Logo.svg" />
         Go to my blog home page(Gitee)
     </a>
-</div>
+</p>
 
 ### Contact me
-
-<div>
-    Email：<a href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=NVNATUBNXFRbUnVERBtWWlg">Link</a>
-</div>
+    
+Email：<a href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=NVNATUBNXFRbUnVERBtWWlg">Link</a>
 
 ## Information about my Github
 
@@ -44,6 +43,6 @@
 
 ### Github Activity Graph
 
-<img style="width: 400px;" src="https://activity-graph.herokuapp.com/graph?username=fuxx-1&theme=xcode&bg_color=FF000000&hide_border=true" />
+<img style="width: 1000px;" src="https://github-readme-activity-graph.vercel.app/graph?username=fuxx-1&theme=vue&bg_color=ffffff&point=009e24&hide_border=true&custom_title=Activity%20Graph" />
 
 </details>
